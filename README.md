@@ -45,4 +45,4 @@ Windows updates can undo parts of this fix — specifically, quality updates can
 
 This script modifies system-level registry keys, disables a Windows kernel driver, and changes internal Windows feature flags. I take no responsibility for any damage, data loss, misconfiguration, or unintended behavior that results from running it. I share it because it works for me and might work for you — but you run it at your own risk, on your own machine, with your own understanding of what it does.
 
-If you are not comfortable with what is described above, read the [full guide](https://alteregol.cc/) first, which explains each step and the reasoning behind it in plain language before touching anything.
+If you are not comfortable with what is described above, read the [full guide](https://alterego.cc/wp/2026/03/19/fixing-browser-tamer-issues-in-windows/) first, which explains each step and the reasoning behind it in plain language before touching anything.
