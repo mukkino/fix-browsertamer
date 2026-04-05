@@ -1742,8 +1742,8 @@ try {
     $installVersion = "latest"
     if (-not $script:SemiAuto) {
         Write-Host "  Which version would you like to install?"
-        Write-Host "    L  Latest"
-        Write-Host "    P  Previous"
+        Write-Host "    L  Latest (Current Latest)"
+        Write-Host "    P  Previous 5.5.5"
         Write-Host ""
         $verChoice = $null
         while ($verChoice -notin @("L","P")) {
